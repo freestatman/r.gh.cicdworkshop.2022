@@ -4,4 +4,3 @@ test_that("hello cicdworkshop greets the attendees", {
     "^Welcome to the R/Pharma CI/CD workshop!\\n"
   )
 })
-
