@@ -1,5 +1,5 @@
 ---
-title: "CI/CD Workshop for R Packages"
+title: "Intro to CI/CD Workshop for R Packages"
 subtitle: |
   R/Pharma
 
@@ -82,7 +82,7 @@ This workshop aims to discuss and show you how to implement 8 **simple** CI/CD w
 :::
 
 ::: {.incremental}
-- Use GitHub Template from [CI/CD Workshop at R/Pharma conference 2022](https://github.com/pharmaverse/cicdworkshop.rinpharma2022) 
+- Use GitHub Template from [CI/CD Workshop at R/Pharma conference 2022](https://github.com/pharmaverse/cicdworkshop.rinpharma2022)
   - Copy the template to your personal account on GitHub `r fontawesome::fa("copy", "purple")`
   - Mark your repository as public (private repos will cost you money) `r fontawesome::fa("unlock", "blue")`
 - Create a new branch called `devel` within GitHub 🪵
